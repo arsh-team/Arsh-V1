@@ -1,6 +1,6 @@
 # coding=utf-8
 # Copyright 2025 Arsh Team
-# Apache License Version 2.0
+# MIT License
 
 import torch
 import torch.nn as nn
