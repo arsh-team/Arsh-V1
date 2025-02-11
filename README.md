@@ -4,7 +4,9 @@
 We introduce our first reasoning and chat model based on phi weights. The Arsh architecture is built on new technologies, making this model optimized for performance and extendability in chat applications. Our team has utilized high-quality datasets for training to ensure reliable and robust performance.
 
 Our ongoing efforts include frequent updates and enhancements that aim to blend multiple architectures, striving to build the best model possible. We are making significant progress and are dedicated to refining Arsh-V1 further.
-
+<a href="https://huggingface.co/arshiaafshani/Arsh-V1" target="_blank" style="margin: 2px;">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
+  </a>
 ---
 
 ## Model Overview
