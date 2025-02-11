@@ -7,9 +7,9 @@ Our ongoing efforts include frequent updates and enhancements that aim to blend 
 
 ---
 <a href="https://huggingface.co/arshiaafshani/Arsh-V1" target="_blank" style="margin: 2px;">
-    <img alt="Hugging Face" src="[https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Arsh%20V1%20AI-ffc107?color=ffc107&logoColor=white)" style="display: inline-block; vertical-align: middle;"/>
+    <img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Arsh%20V1%20AI-ffc107?color=ffc107&logoColor=white" style="display: inline-block; vertical-align: middle;"/>
   </a>
----
+
 
 ## Model Overview
 
